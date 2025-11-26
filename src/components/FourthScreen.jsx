@@ -9,7 +9,7 @@ export default function FourthScreen({ onShowOverlay }) {
   const [showButton, setShowButton] = useState(false)
   const scrollRef = useRef(null)
 
-  const specialMessage = `My dearest love,
+  const specialMessage = `My dearest bestest friend,
 
 Every day with you feels like a beautiful dream that I never want to wake up from. You've brought so much joy, laughter, and love into my life that I can't imagine a world without you in it.
 
@@ -17,7 +17,7 @@ Your smile lights up my darkest days, your laugh is my favorite melody, and your
 
 You are my best friend, my partner in crime, my safe haven, and my greatest adventure all rolled into one amazing person. I am so grateful that the universe brought us together.
 
-I love you more than words can express, more than actions can show, and more than time can measure. You are my forever and always.`
+I like you more than words can express, more than actions can show, and more than time can measure. You are my forever and always.`
 
   const endingText = "There’s one last thing I wish could last forever…"
 
